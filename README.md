@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Scalar](https://img.shields.io/badge/scala-dc322f.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 - ##### Frontends
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
