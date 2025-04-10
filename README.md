@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-![New Relic](https://img.shields.io/badge/new%20relic-1ce783.svg?style=for-the-badge&logo=newrelic&logoColor=white)
 
 - ##### 💻 IDEs & Environments
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
